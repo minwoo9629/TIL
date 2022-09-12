@@ -22,9 +22,11 @@ let myNewTodo: TodoItem = { id: 1, content: "카페가기", completed: true };
 > 타입 별칭은 새로운 타입 값을 생성하는게 아니라 정의한 타입에 대해 쉽게 참고할 수 있게 이름을 부여한다고 생각하자.
 
 interface로 선언한 타입
+<br/>
 <img width="294" alt="interface" src="https://user-images.githubusercontent.com/46440898/189677403-62176339-d3a8-4860-b44b-1fef08b565d4.png">
 
 type으로 선언한 타입
+<br/>
 <img width="330" alt="type" src="https://user-images.githubusercontent.com/46440898/189677254-04a7bdc4-0fe1-4de7-a735-0903d01e0e72.png">
 
 ### interface 와 Type Aliases 차이
